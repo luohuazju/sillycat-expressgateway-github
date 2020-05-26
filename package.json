@@ -1,0 +1,19 @@
+{
+  "name": "sillycat-expressgateway-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainifest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luohuazju/sillycat-expressgateway-github.git"
+  },
+  "author": "Hua Luo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luohuazju/sillycat-expressgateway-github/issues"
+  },
+  "homepage": "https://github.com/luohuazju/sillycat-expressgateway-github#readme"
+}
